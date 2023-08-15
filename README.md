@@ -9,8 +9,8 @@
 Хочу работать и развиваться в продуктовой команде, хочу освоить Laravel, ищу оффер на Junior Backend Developer с оплатой от 200$ в неделю.
 
 #### Контакты для связи
-email: pvlbgtrv@yandex.ru
-telegram: @pvlbgtrv
+##### email: pvlbgtrv@yandex.ru
+##### telegram: @pvlbgtrv
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pvlbgtrv&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pvlbgtrv&theme=buefy)
