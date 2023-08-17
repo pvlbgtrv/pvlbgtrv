@@ -16,8 +16,7 @@
  - PHP, Codeigniter 3, JS, jQuery, html, css
  - Linux debian, nginx, apache, mysql, ssh, git, proxmox
  - blockchain, nodes, RPC API
- - TOR, hidden services, VPN, wireguard
- - Telegram bot api, telegram api
+ - TOR, hidden services, VPN, wireguard, I2P, Yggdrasil
 
 #### Технологии с которыми я разбирался и что то делал
  - Laravel
